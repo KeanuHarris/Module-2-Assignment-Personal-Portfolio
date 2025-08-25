@@ -10,5 +10,13 @@ h1 {
 
 p {
    font-size: 140;
-   color: aqua;
+   color: blue;
+}
+
+a {
+    color: red;
+}
+
+ul {
+    color: blueviolet;
 }
