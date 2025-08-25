@@ -1,0 +1,14 @@
+/* CCS COMMENT*/
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+   font-size: 140;
+   color: aqua;
+}
